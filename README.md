@@ -9,30 +9,30 @@ Each folder contains 4 datasets
 
 ## ProMapCz
 Contains 1495 product pairs for product mapping task in Czech language of which 1196 pairs are for training and 299 are for testing data. 
-promap_cz-test_data.csv
-promap_cz-train_data.csv
-promap_cz-train_data_similaities.csv
-promap_cz-test_data_similarities.csv
+*promap_cz-test_data.csv
+*promap_cz-train_data.csv
+*promap_cz-train_data_similaities.csv
+*promap_cz-test_data_similarities.csv
 
 
 ## ProMapEn
 Contains 1569 product pairs for product mapping task in English language of which 1255 pairs are for training and 314 are for testing data. 
-promap_en-train_data.csv
-promap_en-test_data.csv
-promap_en-train_data_similarities.csv
-promap_en-test_data_similarities.csv
+*promap_en-train_data.csv
+*promap_en-test_data.csv
+*promap_en-train_data_similarities.csv
+*promap_en-test_data_similarities.csv
 
 
 ## Amazon-Google
 Contains 3235 product pairs for product mapping task in English language of which 2588 pairs are for training and 647 are for testing data. 
-amazon_google-train_data.csv
-amazon_google-test_data.csv
-amazon_google-train_data_similarities.csv
-amazon_google-test_data_similarities.csv
+*amazon_google-train_data.csv
+*amazon_google-test_data.csv
+*amazon_google-train_data_similarities.csv
+*amazon_google-test_data_similarities.csv
 
 ## Amazon-Walmart
 Contains 3143 product pairs for product mapping task in English language of which 2514 pairs are for training and 629 are for testing data. 
-amazon_walmart-train_data.csv
-amazon_walmart-test_data.csv
-amazon_walmart-train_data_similarities.csv
-amazon_walmart-test_data_similarities.csv
+*amazon_walmart-train_data.csv
+*amazon_walmart-test_data.csv
+*amazon_walmart-train_data_similarities.csv
+*amazon_walmart-test_data_similarities.csv
