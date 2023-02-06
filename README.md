@@ -2,10 +2,10 @@
 This repository contains released datasets for product mapping ProMapCz and ProMapEn. 
 It also contains preprocessed datasets used for comparison with ProMap datasets originally from [Amazon-Google](https://dbs.uni-leipzig.de/en) and [Amazon-Walmart](https://hpi.de/naumann/projects/repea\-ta\-bility/datasets/amazon-walmart-dataset.html) datasets.
 Each folder contains 4 datasets
-* ** *dataset_name*-train_data.csv**, which contains original train data
-* *dataset_name*-test_data.csv, which contains original test data
-* *dataset_name*-train_data_similaities.csv, which contains precomputed similaritis from train data
-* *dataset_name*-test_data_similarities.csv, which contains precomputed similaritis from test data
+* *dataset_name*-**train_data.csv**, which contains original train data
+* *dataset_name*-**test_data.csv**, which contains original test data
+* *dataset_name*-**train_data_similaities.csv**, which contains precomputed similaritis from train data
+* *dataset_name*-**test_data_similarities.csv**, which contains precomputed similaritis from test data
 
 ## ProMapCz
 Contains 1495 product pairs for product mapping task in Czech language of which 1196 pairs are for training and 299 are for testing data. 
