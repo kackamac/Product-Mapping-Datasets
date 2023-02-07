@@ -16,7 +16,7 @@ Contains 1495 product pairs for product mapping task in Czech language of which 
 
 
 ## ProMapEn
-Contains 1569 product pairs for product mapping task in English language of which 1255 pairs are for training and 314 are for testing data. 
+Contains 1555 product pairs for product mapping task in English language of which 1244 pairs are for training and 311 are for testing data. 
 * promap_en-train_data.csv
 * promap_en-test_data.csv
 * promap_en-train_data_similarities.csv
