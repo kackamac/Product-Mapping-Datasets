@@ -4,14 +4,14 @@ It also contains preprocessed datasets used for comparison with ProMap datasets 
 Each folder contains 4 datasets
 * *dataset_name*-**train_data.csv**, which contains original train data
 * *dataset_name*-**test_data.csv**, which contains original test data
-* *dataset_name*-**train_data_similaities.csv**, which contains precomputed similaritis from train data
-* *dataset_name*-**test_data_similarities.csv**, which contains precomputed similaritis from test data
+* *dataset_name*-**train_data_similaities.csv**, which contains precomputed similarities from train data
+* *dataset_name*-**test_data_similarities.csv**, which contains precomputed similarities from test data
 
 ## ProMapCz
 Contains 1495 product pairs for product mapping task in Czech language of which 1196 pairs are for training and 299 are for testing data. 
 * promap_cz-test_data.csv
 * promap_cz-train_data.csv
-* promap_cz-train_data_similaities.csv
+* promap_cz-train_data_similarities.csv
 * promap_cz-test_data_similarities.csv
 
 
