@@ -1,5 +1,7 @@
 # Product-Mapping-Datasets
-This repository contains newly created and released datasets for product mapping ProMapCz and ProMapEn. 
+This repository contains newly created and released datasets for product mapping: ProMapCz and ProMapEn. 
+Both datasets contain manually created product pairs from two e-shops: Alza and Mall for ProMapCz and Walmart and Amazon for ProMapEn. We extracted several pieces of information about each product: name, specification, short description, long descriptions, images and price. Moreover, each product pair contains also the type of match and product category.
+
 
 It also contains existing preprocessed datasets used for comparison with our ProMap datasets originally from [Amazon-Google](https://dbs.uni-leipzig.de/en) and [Amazon-Walmart](https://hpi.de/naumann/projects/repea\-ta\-bility/datasets/amazon-walmart-dataset.html) datasets.
 
