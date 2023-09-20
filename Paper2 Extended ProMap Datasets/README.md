@@ -1,4 +1,4 @@
-# Product-Mapping-Datasets
+# Paper2 Extended ProMap Datasets
 This part of the repository contains extended ProMapCz and ProMapEn datasets from our previous work.
 Original ProMapCz and ProMapEn are two manually created datasets and contain matching and non-matching product pairs from two e-shops: Alza-Mall for ProMapCz and Walmart-Amazon for ProMapEn. Each product contains detailed information about itself: name, specification, short descriptions, long descriptions, images and price. Each product pair contains also the type of match and product category.
 
