@@ -14,5 +14,5 @@ We asked the ChatGPT 3.5 model using its API whether the pairs of products are d
 In the end, we also averaged three models' predictions to eliminate the differences between individual runs.
 
 ## Bing and Llama folders
-We asked the same questions LLaMA 2 13b model using the attached code in *run_llama.py* and the Bing model using its API. AS the results were very poor we used only product names for the experiments. We also performed 3 rounds for each using both Czech and English datasets and we averaged three models' predictions to eliminate the differences between individual runs.
+We asked the same questions LLaMA 2 7b model using the attached code in *run_llama.py* and the Bing model using its API. AS the results were very poor we used only product names for the experiments. We also performed 3 rounds for each using both Czech and English datasets and we averaged three models' predictions to eliminate the differences between individual runs.
 
