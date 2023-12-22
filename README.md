@@ -5,3 +5,4 @@ It consists of 3 folders:
 * **Paper2 Extended ProMap Datasets** consisting of the extended ProMap Datasets
 * **Paper3 ProMap Datasets and Language models** consisting of the labelled ProMap Datasets using language models
 
+(©) All the datasets are released under an open licence and can be freely used by anybody.
