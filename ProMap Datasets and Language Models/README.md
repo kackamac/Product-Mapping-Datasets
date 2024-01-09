@@ -1,4 +1,4 @@
-# Paper3 ProMap Datasets and Language Models
+# ProMap Datasets and Language Models
 This part of the repository contains part of the ProMapCzExt Test and ProMapEnExt Test datasets along with labels identifying matching and non=maching pairs predicted by several language models: Bard, Bing, ChatGPT, and LLaMA.
 Additionally, it contains two scripts that were used during testing.
 
